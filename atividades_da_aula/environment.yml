@@ -1,0 +1,11 @@
+name: pln
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+    - nltk
+    - numpy
+    - pandas 
+    - black 
+    - isort
+    - jupyterlab
